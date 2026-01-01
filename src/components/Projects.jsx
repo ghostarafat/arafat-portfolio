@@ -32,7 +32,7 @@ const Projects = () => {
       image: "https://i.imgur.com/f0u7LR1.png",
       technologies: ["JavaScript", "React", "Firebase", "Tailwind CSS"],
       github: "https://github.com/ghostarafat/skill-swap",
-      live: "assignment9b12.netlify.app/",
+      live: "https://assignment9b12.netlify.app/",
       category: "Frontend",
     },
     {

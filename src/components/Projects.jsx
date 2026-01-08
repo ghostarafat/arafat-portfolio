@@ -53,18 +53,18 @@ const Projects = () => {
       live: "https://assignment8ph12.netlify.app/",
       category: "Frontend",
     },
-    // {
-    //   id: 4,
-    //   title: "Weather App",
-    //   description:
-    //     "A beautiful weather application with location-based forecasts, interactive maps, and detailed weather information. Includes weather alerts and historical data.",
-    //   image:
-    //     "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
-    //   technologies: ["React", "Weather API", "CSS3", "HTML5"],
-    //   github: "#",
-    //   live: "#",
-    //   category: "Frontend",
-    // },
+    {
+      id: 4,
+      title: "BlogNest – Modern Blog Platform",
+      description:
+        "BlogNest is a modern and responsive blog platform where users can read and explore blog posts with a clean UI and smooth user experience.The project focuses on frontend performance, responsive design, and structured content presentation using modern web technologies.",
+      image:
+        "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=600&h=400&fit=crop",
+      technologies: ["Next.js", "React", " CSS", "JavaScript", "HTML5"],
+      github: "https://github.com/ghostarafat/blog-nest",
+      live: "https://blog-nest-virid-ten.vercel.app/",
+      category: "Frontend",
+    },
     // {
     //   id: 5,
     //   title: "Blog Platform",
